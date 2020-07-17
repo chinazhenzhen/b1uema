@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🧑🏻‍💻 I’m a back-end developer
 - 🔭 I’m currently working on [@DeepGlint](http://www.deepglint.com/)
 - 🌱 I’m currently learning [Machine Learning](https://github.com/tensorflow/tensorflow)
 - 💬 Ask me about Golang and Python
