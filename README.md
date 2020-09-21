@@ -7,6 +7,8 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I like to drink 🧊🥤, but I will never grow fat.
 
+***纵使困顿难行，亦当砥砺奋进！***
+
 <!--
 **b1uema/b1uema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
